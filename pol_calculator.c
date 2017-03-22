@@ -1,3 +1,7 @@
+//
+
+//only ‘+’and‘-’ come true
+
 #include<stdio.h>
 struct body{
     double number,index;
